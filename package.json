@@ -227,7 +227,7 @@
     "electron-builder": "22.13.1",
     "electron-builder-squirrel-windows": "22.14.7",
     "enquirer": "^2.3.6",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fast-json-patch": "^3.0.0-1",
     "file-saver": "^2.0.5",
     "firebase": "^9.6.4",
